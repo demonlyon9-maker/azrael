@@ -11,9 +11,9 @@
   "appStatePath": "./appstate.json",
 
   "bot": {
-    "name": "عزرائيل",
+    "name": "اوتشيها",
     "version": "2.1.0",
-    "adminIDs": ["61594367008643", "61594193150966"],
+    "adminIDs": ["61594367008643", "61590069689577"],
     "language": "ar"
   },
 
